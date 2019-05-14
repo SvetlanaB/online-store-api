@@ -1,0 +1,12 @@
+[
+  {
+    "id_product": 123,
+    "product_name": "Открытка",
+    "price": 200
+  },
+  {
+    "id_product": 456,
+    "product_name": "Шоколадница",
+    "price": 100
+  }
+]

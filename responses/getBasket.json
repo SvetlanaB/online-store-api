@@ -1,0 +1,18 @@
+{
+  "amount": 300,
+  "countGoods": 2,
+  "contents": [
+    {
+      "id_product": 123,
+      "product_name": "Открытка",
+      "price": 200,
+      "quantity": 1
+    },
+    {
+      "id_product": 456,
+      "product_name": "Шоколадница",
+      "price": 100,
+      "quantity": 1
+    }
+  ]
+}
